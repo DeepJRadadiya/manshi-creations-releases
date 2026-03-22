@@ -2,7 +2,6 @@
 
 This repository contains the official releases of the **Manshi Creations** mobile app.
 
-> ⚠️ This is a **releases-only** repository. The app source code is private.
 
 ---
 
